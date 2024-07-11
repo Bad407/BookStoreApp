@@ -53,4 +53,4 @@ export default function Footer() {
     </div>
   );
 }
-lk g jkdjf g shgfou hdgk 
+// Kayakh u u guy 
