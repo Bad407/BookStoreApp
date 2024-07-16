@@ -26,7 +26,7 @@ export default function Navbar() {
         <a href="/">Home</a>
       </li>
       <li>
-        <a href="/course">course</a>
+        <a href="/course">Course</a>
       </li>
       <li>
         <a>Contact</a>
