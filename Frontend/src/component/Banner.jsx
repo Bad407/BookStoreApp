@@ -1,4 +1,4 @@
-import banner from "../../public/banner.jpg";
+import banner from "../../public/Banner.png";
 export default function Banner() {
   return (
     <>
@@ -29,7 +29,7 @@ export default function Banner() {
           </div>
           <button className="btn mt-6 btn-secondary">Ayush</button>
         </div>
-        <div className="order-1 w-full mt-20 md:w-1/2">
+        <div className="order-1 w-full mt-20 md:w-1/2 ">
           <img src={banner} className="w-92 h-92" alt="" />
         </div>
       </div>
