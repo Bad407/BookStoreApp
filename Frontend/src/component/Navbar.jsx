@@ -16,7 +16,7 @@ export default function Navbar() {
       localStorage.setItem("theme", "light");
       document.body.classList.remove("dark");
     }
-  }, [theme]);
+  }, [theme, element.classList]);
 
   const [sticky, setSticky] = useState(false);
   useEffect(() => {
