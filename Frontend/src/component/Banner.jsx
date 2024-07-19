@@ -1,4 +1,4 @@
-import banner from "../../public/banner.jpg";
+import banner from "../../public/Banner.png";
 export default function Banner() {
   return (
     <>
